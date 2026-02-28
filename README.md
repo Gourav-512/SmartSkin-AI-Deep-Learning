@@ -13,7 +13,7 @@
 - One-click installer for clients
 
 ### Live Demo
-- **Hugging Face Space** → [SmartSkin Demo](https://huggingface.co/spaces/Researcher-Gourav/SmartSkin-AI) (agar hosted hai to link daal)
+- **Hugging Face Space** → [SmartSkin Demo]([https://huggingface.co/datasets/Researcher-Gourav/SmartSkin-AI-Deep-Learning])
 - **Streamlit local** → `streamlit run app/streamlit_app.py`
 
 ### Quick Start
@@ -24,3 +24,4 @@ python -m venv venv
 venv\Scripts\activate
 pip install -r requirements.txt
 streamlit run app/streamlit_app.py
+
