@@ -11,7 +11,7 @@
 - Data augmentation + preprocessing
 - Offline CPU-only app (Windows ready)
 - One-click installer for clients
-
+-
 ### Live Demo
 - **Hugging Face Space** → [SmartSkin Demo](https://huggingface.co/Researcher-Gourav/SmartSkin-AI-Deep-Learning)
 - **Streamlit local** → `streamlit run app/streamlit_app.py`
@@ -26,3 +26,4 @@ pip install -r requirements.txt
 streamlit run app/streamlit_app.py
 
 ,,..
+-
