@@ -1,5 +1,4 @@
-````md
-# 🧬 SmartSkin AI — Deep Learning Skin Disease Classifier
+# 🧬 SmartSkin AI — Skin Disease Classification using Deep Learning
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
@@ -10,152 +9,130 @@
 </p>
 
 <p align="center">
-AI-powered skin disease classification system built using Deep Learning and Computer Vision.
+Deep Learning-based medical Computer Vision system for skin disease classification.
 </p>
 
 ---
 
 ## 📌 Overview
 
-SmartSkin AI is a Deep Learning-based Computer Vision project designed to classify skin diseases from image inputs.
+SmartSkin AI is a Deep Learning project built for skin disease image classification using Computer Vision and Transfer Learning techniques.
 
-The project focuses on:
-- Medical image classification
-- Transfer Learning
-- Real-time prediction workflows
-- Lightweight deployment-ready AI systems
+The project demonstrates how AI can assist in image-based medical analysis through lightweight and deployment-ready inference workflows.
 
-This project demonstrates how AI can assist in preliminary dermatological analysis using image-based inference.
+### Key Focus Areas
+
+* Medical Image Classification
+* Transfer Learning with MobileNetV2
+* Real-time Prediction
+* Deep Learning Inference Pipelines
+* Streamlit-based AI Deployment
 
 ---
 
 ## 🚀 Features
 
-- Skin disease image classification
-- Transfer Learning using MobileNetV2
-- Real-time image prediction
-- Streamlit-based interactive UI
-- Optimized inference workflow
-- Deployment-ready architecture
+* Skin disease image classification
+* MobileNetV2-based Transfer Learning
+* Real-time image prediction
+* Interactive Streamlit interface
+* Lightweight AI inference workflow
+* Deployment-ready architecture
 
 ---
 
-## 🧠 Model Details
+## 🧠 Model Information
 
-| Component | Details |
-|---|---|
-| Model Architecture | MobileNetV2 |
-| Framework | TensorFlow / Keras |
-| Task | Multi-class Image Classification |
-| Domain | Medical Computer Vision |
-| Input Type | Skin Images |
-| Deployment UI | Streamlit |
+| Component            | Details                    |
+| -------------------- | -------------------------- |
+| Model Architecture   | MobileNetV2                |
+| Framework            | TensorFlow / Keras         |
+| Task                 | Multi-class Classification |
+| Domain               | Medical Computer Vision    |
+| Input Type           | Skin Images                |
+| Deployment Interface | Streamlit                  |
 
 ---
 
 ## ⚙️ Tech Stack
 
 ### AI / Deep Learning
-- Python
-- TensorFlow
-- Keras
-- OpenCV
-- NumPy
 
-### Deployment / UI
-- Streamlit
+* Python
+* TensorFlow
+* Keras
+* OpenCV
+* NumPy
+
+### Deployment / Interface
+
+* Streamlit
 
 ---
 
 ## 📂 Project Structure
 
-```bash
 SmartSkin-AI-Deep-Learning/
-│
+
 ├── dataset/
 ├── model/
 ├── notebooks/
 ├── app.py
 ├── requirements.txt
 └── README.md
-````
 
 ---
 
 ## 🖼️ Workflow
 
-```text
 Image Input
-   ↓
+↓
 Preprocessing
-   ↓
-MobileNetV2 Feature Extraction
-   ↓
-Classification
-   ↓
+↓
+Feature Extraction
+↓
+Disease Classification
+↓
 Prediction Output
-```
 
 ---
 
-## ▶️ Installation
+## ▶️ Installation & Setup
 
 ### Clone Repository
 
-```bash
 git clone https://github.com/Gourav-512/SmartSkin-AI-Deep-Learning.git
 
 cd SmartSkin-AI-Deep-Learning
-```
-
----
 
 ### Install Dependencies
 
-```bash
 pip install -r requirements.txt
-```
-
----
 
 ### Run Application
 
-```bash
 streamlit run app.py
-```
 
 ---
 
-## 📊 Use Cases
+## 📊 Applications
 
-* AI-assisted medical screening
-* Medical Computer Vision learning
+* Medical AI research
 * Deep Learning experimentation
-* Transfer Learning implementation
+* Computer Vision learning
 * Healthcare AI prototypes
-
----
-
-## 🎯 Learning Outcomes
-
-This project helped in understanding:
-
-* Transfer Learning workflows
-* CNN-based image classification
-* Medical imaging pipelines
-* TensorFlow model deployment
-* Streamlit-based AI applications
+* AI-assisted image analysis systems
 
 ---
 
 ## 🔥 Future Improvements
 
-* Improved dataset scaling
-* Higher classification accuracy
-* Multi-disease support
-* Cloud deployment
-* Explainable AI integration
-* Mobile optimization
+* Improve model accuracy
+* Expand disease categories
+* Cloud deployment integration
+* Explainable AI support
+* Mobile-friendly deployment
+* Optimized inference speed
 
 ---
 
@@ -166,8 +143,8 @@ This project helped in understanding:
 Applied AI Engineer focused on:
 
 * Computer Vision
+* Deep Learning
 * AI Deployment
-* Deep Learning Systems
 * MLOps Fundamentals
 
 🔗 GitHub: https://github.com/Gourav-512
@@ -182,6 +159,3 @@ If you found this project useful:
 * Fork the project
 * Share feedback
 * Contribute improvements
-
-```
-```
