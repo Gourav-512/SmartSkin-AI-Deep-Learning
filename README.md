@@ -28,7 +28,7 @@ There is a growing need for lightweight AI systems that can assist in preliminar
 
 ---
 
-# 💡 Solution
+# 💡 Solution :- 
 
 SmartSkin AI is a Deep Learning-based Computer Vision system that classifies skin disease images using Transfer Learning.
 
