@@ -27,6 +27,7 @@ df_out = pd.DataFrame({
     "filename": df_filtered["image_id"].astype(str) + ".jpg",
     "label": df_filtered["dx"]
 })
+
 df_out.to_csv(output_csv, index=False)
 
 print("✅ labels.csv created with", len(df_out), "entries")
