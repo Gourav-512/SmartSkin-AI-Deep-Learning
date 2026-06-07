@@ -18,12 +18,15 @@ from tensorflow.keras.callbacks import EarlyStopping, ModelCheckpoint
 IMAGE_DIR = "dataset/1000_images"
 LABELS_CSV = "dataset/labels.csv"
 
+
 # Load CSV
 df = pd.read_csv(LABELS_CSV)
+
 
 # Classes to keep (4 most common)
 selected_classes = ['nv', 'mel', 'bkl', 'df']
 df = df[df['label'].isin(selected_classes)]
+
 
 # Encode labels
 lb = LabelBinarizer()
