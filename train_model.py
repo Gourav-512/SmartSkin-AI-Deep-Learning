@@ -38,7 +38,6 @@ for fname in tqdm(df['filename'], desc="Loading Images"):
 images = np.array(images)
 labels = np.array(labels)
 
-
 # Split
 X_train, X_test, y_train, y_test = train_test_split(images, labels, test_size=0.2, random_state=42)
 
@@ -54,7 +53,6 @@ model = Sequential([
     Dropout(0.3),
     Dense(len(lb.classes_), activation='softmax')
 ])
-
 
 model.compile(optimizer='adam', loss='categorical_crossentropy', metrics=['accuracy'])
 
