@@ -35,7 +35,6 @@ for fname in tqdm(df['filename'], desc="Loading Images"):
     img = img.astype("float32") / 255.0
     images.append(img)
 
-
 images = np.array(images)
 labels = np.array(labels)
 
