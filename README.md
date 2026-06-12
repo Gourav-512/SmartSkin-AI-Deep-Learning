@@ -7,7 +7,6 @@
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
   <img src="https://img.shields.io/badge/MobileNetV2-111827?style=flat-square"/>
 </p>
-
 <p align="center">
 AI-powered skin disease classification system built using Deep Learning and Computer Vision.
 </p>
