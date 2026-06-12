@@ -10,7 +10,6 @@
 <p align="center">
 AI-powered skin disease classification system built using Deep Learning and Computer Vision.
 </p>
-
 ---
 # 📌 Problem
 
@@ -23,7 +22,6 @@ Traditional screening methods can be:
 * Difficult to access in remote areas
 
 There is a growing need for lightweight AI systems that can assist in preliminary image-based skin disease analysis.
-
 ---
 
 # 💡 Solution :- 
@@ -31,7 +29,6 @@ There is a growing need for lightweight AI systems that can assist in preliminar
 SmartSkin AI is a Deep Learning-based Computer Vision system that classifies skin disease images using Transfer Learning.
 
 The system:
-
 * Accepts skin images as input
 * Processes images using Computer Vision techniques
 * Uses a MobileNetV2 Deep Learning model for classification
@@ -40,7 +37,6 @@ The system:
 The project demonstrates how AI can support healthcare-focused image analysis workflows.
 
 ---
-
 # 🚀 Features
 
 * Skin disease image classification
@@ -51,7 +47,6 @@ The project demonstrates how AI can support healthcare-focused image analysis wo
 * Medical Computer Vision implementation
 
 ---
-
 # 🧠 Model Information
 
 | Component            | Details                    |
