@@ -13,7 +13,6 @@ AI-powered skin disease classification system built using Deep Learning and Comp
 </p>
 
 ---
-
 # 📌 Problem
 
 Skin disease diagnosis often requires expert medical consultation and manual visual analysis, which may not always be easily accessible.
