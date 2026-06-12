@@ -22,7 +22,6 @@ df = pd.read_csv(LABELS_CSV)
 selected_classes = ['nv', 'mel', 'bkl', 'df']
 df = df[df['label'].isin(selected_classes)]
 
-
 # Encode labels
 lb = LabelBinarizer()
 labels = lb.fit_transform(df['label'])
