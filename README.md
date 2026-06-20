@@ -49,7 +49,7 @@ The project demonstrates how AI can support healthcare-focused image analysis wo
 
 ---
 # 🧠 Model Information
-
+____________________________________________________
 | Component            | Details                    |
 | -------------------- | -------------------------- |
 | Model Architecture   | MobileNetV2                |
@@ -58,7 +58,7 @@ The project demonstrates how AI can support healthcare-focused image analysis wo
 | Domain               | Medical Computer Vision    |
 | Input Type           | Skin Images                |
 | Deployment Interface | Streamlit                  |
-
+|______________________|____________________________|
 ---
 
 # ⚙️ Tech Stack
