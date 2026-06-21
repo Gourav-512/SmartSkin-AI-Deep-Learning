@@ -8,6 +8,7 @@
   <img src="https://img.shields.io/badge/MobileNetV2-111827?style=flat-square"/>
 </p>
 <p align="center">
+  
 AI-powered skin disease classification system built using Deep Learning and Computer Vision.
 </p>
 
