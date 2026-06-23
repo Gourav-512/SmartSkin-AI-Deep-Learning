@@ -16,7 +16,6 @@ available_imgs = [f.replace(".jpg", "") for f in available_imgs]
 # Filter metadata for available images
 df_filtered = df[df['image_id'].isin(available_imgs)]
 
-
 # Save labels.csv
 output_csv = 'dataset/labels.csv'
 df_out = pd.DataFrame({
