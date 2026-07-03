@@ -120,6 +120,7 @@ git clone https://github.com/Gourav-512/SmartSkin-AI-Deep-Learning.git
 cd SmartSkin-AI-Deep-Learning
 ```
 
+
 ### Install Dependencies
 
 ```bash
