@@ -8,9 +8,8 @@ from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import LabelBinarizer
 import tensorflow as tf
 from tensorflow.keras.models import Sequential
-from tensorflow.keras.layers import Dense, Conv2D, MaxPooling2D, Flatten, Dropout
+from tensorflow.keras.layers import Dense, Conv2D, MaxPooling2D, Flatten, 
 from tensorflow.keras.callbacks import EarlyStopping, ModelCheckpoint
-
 
 # Paths
 IMAGE_DIR = "dataset/1000_images"
