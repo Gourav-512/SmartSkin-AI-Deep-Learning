@@ -2,7 +2,6 @@
 import pandas as pd
 import os
 
-
 # Load metadata
 meta_path = 'dataset/HAM10000_metadata.csv'
 df = pd.read_csv(meta_path)
