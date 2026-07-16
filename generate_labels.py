@@ -3,11 +3,10 @@ import pandas as pd
 import os
 # Load metadata
 meta_path = 'dataset/HAM10000_metadata.csv'
-df = pd.read_csv(meta_path)
+df = pd.read_csv(meta_pat)
 
 # Final 1000_images folder
 image_folder = 'dataset/1000_images'
-
 
 # Get only available images
 available_imgs = os.listdir(image_folder)
