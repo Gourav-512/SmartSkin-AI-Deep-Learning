@@ -8,6 +8,7 @@ df = pd.read_csv(meta_path)
 # Final 1000_images folder
 image_folder = 'dataset/1000_images'
 
+
 # Get only available images
 available_imgs = os.listdir(image_folder)
 available_imgs = [f.replace(".jpg", "") for f in available_imgs]
