@@ -6,6 +6,7 @@ meta_path = 'dataset/HAM10000_metadata.csv'
 df = pd.read_csv(meta_path)
 
 # Final 1000_images folder
+
 image_folder = 'dataset/1000_images'
 
 # Get only available images
