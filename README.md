@@ -75,7 +75,9 @@ ____________________________________________________
 * NumPy
 
 ### Deployment / Interface
-
+* VS code
+* Anti-Gravity
+* Groq
 * Streamlit
 
 ---
