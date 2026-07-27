@@ -18,6 +18,7 @@ AI-powered skin disease classification system built using Deep Learning and Comp
 
 Skin disease diagnosis often requires expert medical consultation and manual visual analysis, which may not always be easily accessible.
 
+
 Traditional screening methods can be:
 
 * Time-consuming
