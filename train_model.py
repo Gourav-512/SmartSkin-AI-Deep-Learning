@@ -12,6 +12,7 @@ from tensorflow.keras.layers import Dense, Conv2D, MaxPooling2D, Flatten, Dropou
 from tensorflow.keras.callbacks import EarlyStopping, ModelCheckpoint
 
 # Paths
+
 IMAGE_DIR = "dataset/1000_images"
 LABELS_CSV = "dataset/labels.csv"
 
