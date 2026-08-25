@@ -15,6 +15,7 @@ from tensorflow.keras.callbacks import EarlyStopping, ModelCheckpoint
 IMAGE_DIR = "dataset/1000_images"
 LABELS_CSV = "dataset/labels.csv"
 
+
 # Load CSV
 df = pd.read_csv(LABELS_CSV)
 
