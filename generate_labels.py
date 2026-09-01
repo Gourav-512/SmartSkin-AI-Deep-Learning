@@ -7,7 +7,6 @@ df = pd.read_csv(meta_path)
 
 # Final 1000_imagesfolder
 
-
 image_folder = 'dataset/1000_images'
 
 # Get only available images
