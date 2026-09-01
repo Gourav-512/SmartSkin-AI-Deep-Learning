@@ -5,7 +5,7 @@ import os
 meta_path = 'dataset/HAM10000_metadata.csv'
 df = pd.read_csv(meta_path)
 
-# Final 1000_images folder
+# Final 1000_imagesfolder
 
 image_folder = 'dataset/1000_images'
 
