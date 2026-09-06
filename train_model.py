@@ -72,4 +72,4 @@ model.fit(
     callbacks=[checkpoint, early_stop]
 )
 
-print("✅ Training complete. Model saved as: saved_models/skin_model_1000.h5")
+print("✅ Training complete. Model saved as: saved_models/skin_model_1000.h5 ")
