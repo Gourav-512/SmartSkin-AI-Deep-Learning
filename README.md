@@ -55,7 +55,7 @@ The project demonstrates how AI can support healthcare-focused image analysis wo
 ____________________________________________________
 | Component            | Details                    |
 | -------------------- | -------------------------- |
-| Model Architecture   | MobileNetV2                |
+| Model Architecture   | MobileNetV2   |
 | Framework            | TensorFlow / Keras         |
 | Task                 | Multi-class Classification |
 | Domain               | Medical Computer Vision    |
