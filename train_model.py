@@ -72,5 +72,3 @@ model.fit(
 )
 
 print("✅ Training complete. Model saved as: saved_models/skin_model_1000.h5 ")
-
-#RAG system Will Make It Happen Smoothly.so Whats In Your Brain to Starting A New Video Or Get Stuck On Wherever You are 
