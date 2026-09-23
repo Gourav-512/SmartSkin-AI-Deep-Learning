@@ -72,3 +72,5 @@ model.fit(
 )
 
 print("✅ Training complete. Model saved as: saved_models/skin_model_1000.h5 ")
+
+# we Use Rag For That In v2
